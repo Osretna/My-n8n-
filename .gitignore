@@ -22,7 +22,10 @@ node_modules
 
 # Local Netlify folder
 .netlify
+ HEAD
 .env* 
 !.env.example 
 .n8n/ 
 database.sqlite 
+
+ 1ee49362c5b2b3650b4813a0aca5ab8caa80b141
